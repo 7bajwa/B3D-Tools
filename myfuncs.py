@@ -3,7 +3,7 @@ import bpy
 class Vert_Op(bpy.types.Operator):
     """Tooltip"""
     bl_idname = "object.vert_operatoe"
-    bl_label = "Simple Vertex Group Operator"
+    bl_label = "Simple Vertex Group Operator for trees"
 
     # @classmethod
     # def poll(cls, context):
