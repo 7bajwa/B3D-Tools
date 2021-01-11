@@ -4,4 +4,4 @@ Some helpful tools for blender
 
 Working on it in my free time
 
-Just editing this
+For 3D artists
